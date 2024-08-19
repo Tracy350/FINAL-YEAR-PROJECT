@@ -1,0 +1,16 @@
+1.in the notification_list.dart, the backbutton is giving you an error
+2.youve not done the recently booked page yet, the back button there is not working
+3.in the onboaring page remove the next and mak it only skip
+4. when the user presses the search textfield in the homepage it should navigate to the searchpage.dart
+5. The chip_list should allow you tp filter or navigate to other pages
+6.you havent done the my bookmark page
+7. in the hompage the book mark page is supposed to be for my bookmark and you havent done that page yet
+8.in the search page , let it pop to the homepage instaead of the fill in page
+9. in the managers side , change the login screen and make it simpler
+10. remove auth by apple
+11. make the search functionality wrk properly
+
+
+
+
+what we are working on
